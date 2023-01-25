@@ -1,6 +1,6 @@
 # Automata Network
 
-Automata Network is the privacy middleware layer building for a fair Web3. Its core suite of products include [1RPC](https://www.1rpc.io), [2FA Guru](https://2fa.guru), [NFTFair](https://nftfair.app), [AnyDAO](https://anydao.app) and [XATA](https://xata.fi) to address perennial issues of exploitation on the blockchain without compromising on security.
+Automata Network is the privacy middleware layer building for a fair Web3. Its core suite of products includes [1RPC](https://www.1rpc.io), [2FA Guru](https://2fa.guru), [NFTFair](https://nftfair.app), [AnyDAO](https://anydao.app) and [XATA](https://xata.fi) to address perennial issues of exploitation on the blockchain without compromising on security.
 
 Some of our key features:
 - Do-not-track privacy
@@ -11,7 +11,7 @@ Our [Medium](https://medium.com/atanetwork) is a great introduction to our visio
 
 **Overview**
 
-Given the default transparency of blockchain, users struggle with moving large amount of their fortunes into what is invariably an exposed glass box. The developer experience is a central part of Automata's design and helps to explain our middleware approach. For blockchain projects to advocate for and adopt privacy at the protocol level, it's important to us to reduce integration friction and make the experience a positive one for builders, and further down the line, end-users. 
+Given the default transparency of blockchain, users struggle with moving large amount of their fortunes into what is invariably an exposed glass box. The developer experience is a central part of Automata's design and helps to explain our middleware approach. For blockchain projects to advocate for and adopt privacy at the protocol level, it's important for us to reduce integration friction and make the experience a positive one for builders, and further down the line, end-users. 
 
 Some of our middleware solutions include [Conveyor](https://conveyor.ata.network/#/swap), a MEV Minimization solution, and Witness, for off-chain privacy governance. 
 
